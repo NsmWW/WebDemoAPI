@@ -1,0 +1,15 @@
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\WebDemoAPI.Application.deps.json
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\WebDemoAPI.Application.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\WebDemoAPI.Application.pdb
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.AssemblyInfoInputs.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.AssemblyInfo.cs
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.csproj.CoreCompileInputs.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\refint\WebDemoAPI.Application.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.pdb
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\ref\WebDemoAPI.Application.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\WebDemoAPI.Domain.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\WebDemoAPI.Domain.pdb
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.csproj.AssemblyReference.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoA.F074701D.Up2Date

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebDemoAPI.Application/1.0.0": {
+        "dependencies": {
+          "WebDemoAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebDemoAPI.Application.dll": {}
+        }
+      },
+      "WebDemoAPI.Domain/1.0.0": {
+        "runtime": {
+          "WebDemoAPI.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebDemoAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebDemoAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

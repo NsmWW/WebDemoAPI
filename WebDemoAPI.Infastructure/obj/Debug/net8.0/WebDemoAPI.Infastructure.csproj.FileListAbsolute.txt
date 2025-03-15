@@ -1,0 +1,17 @@
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Infastructure.deps.json
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Infastructure.runtimeconfig.json
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Infastructure.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Infastructure.pdb
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.csproj.AssemblyReference.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.AssemblyInfoInputs.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.AssemblyInfo.cs
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.csproj.CoreCompileInputs.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\refint\WebDemoAPI.Infastructure.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.pdb
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.genruntimeconfig.cache
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\ref\WebDemoAPI.Infastructure.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Domain.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Domain.pdb
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoA.DDFA9949.Up2Date

@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\implementrepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\implementrepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\interfacerepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\interfacerepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\datacontext\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\datacontext\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\interfacerepository\\iuserreposytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\interfacerepository\\iuserreposytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\migrations\\20250315055813_initialv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\migrations\\20250315055813_initialv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\datacontext\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\datacontext\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|solutionrelative:webdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|solutionrelative:webdemoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\enum\\constanenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\enum\\constanenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\webdemoapi.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\webdemoapi.infastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\constanconnection\\contans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\constanconnection\\contans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\webdemoapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\webdemoapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\migrations\\20250315055420_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\migrations\\20250315055420_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwI4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:53:38.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserReposytory.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:40:23.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:40:06.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:21:21.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDbcontext.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:19:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250315055813_initialv1.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315055813_initialv1.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\Migrations\\20250315055813_initialv1.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315055813_initialv1.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\Migrations\\20250315055813_initialv1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:58:13.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationDBcontext.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:21:02.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\BaseEntity.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\BaseEntity.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:14:17.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\User.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\User.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\User.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:14:56.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI\\Program.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\Program.cs",
+              "RelativeToolTip": "WebDemoAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:13:54.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250315055420_initial.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315055420_initial.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\Migrations\\20250315055420_initial.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315055420_initial.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\Migrations\\20250315055420_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:54:20.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebDemoAPI\\appsettings.json",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\appsettings.json",
+              "RelativeToolTip": "WebDemoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T05:23:51.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConstanEnum.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\Enum\\ConstanEnum.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\Enum\\ConstanEnum.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\Enum\\ConstanEnum.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\Enum\\ConstanEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:47:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebDemoAPI.Infastructure.csproj",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T05:17:06.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebDemoAPI.Application.csproj",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\WebDemoAPI.Application.csproj",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\WebDemoAPI.Application.csproj",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\WebDemoAPI.Application.csproj",
+              "RelativeToolTip": "WebDemoAPI.Application\\WebDemoAPI.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T05:26:39.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Contans.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:27:04.184Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
