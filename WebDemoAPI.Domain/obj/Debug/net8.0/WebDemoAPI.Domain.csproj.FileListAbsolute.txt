@@ -9,3 +9,4 @@ F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Domain\obj\Debug\net8.0\WebDemo
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Domain\obj\Debug\net8.0\refint\WebDemoAPI.Domain.dll
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Domain\obj\Debug\net8.0\WebDemoAPI.Domain.pdb
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Domain\obj\Debug\net8.0\ref\WebDemoAPI.Domain.dll
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Domain\obj\Debug\net8.0\WebDemoAPI.Domain.sourcelink.json

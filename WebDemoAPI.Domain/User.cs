@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WebDemoAPI.Domain.Enum;
+using WebDemoAPI.Domain.UsersFuntion;
+
 
 namespace WebDemoAPI.Domain
 {
@@ -18,5 +20,7 @@ namespace WebDemoAPI.Domain
         public string Fullname {  set; get; }
         public DateTime? DateOfBirt { set; get; }
         public ConstanEnum.EnumStatus EnumStatus { set; get; } = ConstanEnum.EnumStatus.Unactive;
+
+        public virtual ICollection<Permission>? Permissions { set; get; } = new List<Permission>();
     }
 }

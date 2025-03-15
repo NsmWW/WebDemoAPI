@@ -15,3 +15,4 @@ F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Domain.dll
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\bin\Debug\net8.0\WebDemoAPI.Domain.pdb
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoA.DDFA9949.Up2Date
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Infastructure\obj\Debug\net8.0\WebDemoAPI.Infastructure.sourcelink.json

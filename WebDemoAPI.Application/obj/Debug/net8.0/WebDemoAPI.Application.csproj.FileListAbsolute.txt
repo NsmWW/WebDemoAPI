@@ -13,3 +13,4 @@ F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\We
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\bin\Debug\net8.0\WebDemoAPI.Domain.pdb
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.csproj.AssemblyReference.cache
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoA.F074701D.Up2Date
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI.Application\obj\Debug\net8.0\WebDemoAPI.Application.sourcelink.json
