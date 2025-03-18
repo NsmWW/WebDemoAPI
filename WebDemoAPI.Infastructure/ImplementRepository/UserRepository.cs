@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 using WebDemoAPI.Domain;
 using WebDemoAPI.Domain.InterfaceREpository;
+using WebDemoAPI.Domain.UsersFuntion;
 using WebDemoAPI.Infastructure.DataContext;
 
 namespace WebDemoAPI.Infastructure.ImplementRepository
@@ -53,7 +55,25 @@ namespace WebDemoAPI.Infastructure.ImplementRepository
             }
             foreach(var role in Listrole.Distinct())
             {
-                
+                var roleUSer = await GetRoleOfUserAsync(user);
+                if(await IstringinListstring(role, roleUSer.ToList()))
+                {
+                    throw new ArgumentException("user co role nay roi");
+                }
+                else
+                {
+                    var roleitem = await _context.Role.SingleOrDefaultAsync(x=>x.RoleCode.Equals(role));
+                    if (roleitem == null)
+                    {
+                        throw new AggregateException("khong co quen nay trong list quen");
+                    }
+                    _context.Permissions.Add(new Permission
+                    {
+                        RoleId = roleitem.Id,
+                        UserId = user.Id,
+                    });
+                }
+                _context.SaveChanges();
             }
         }
 
@@ -69,12 +89,14 @@ namespace WebDemoAPI.Infastructure.ImplementRepository
 
         public Task<User> GetUserByEmail(string email)
         {
-            throw new NotImplementedException();
+            var user = _context.User.SingleOrDefaultAsync(x=>x.Email.ToLower().Equals(email.ToLower()));
+            return user;
         }
 
         public Task<User> GetUserByUSername(string username)
         {
-            throw new NotImplementedException();
+            var user = _context.User.SingleOrDefaultAsync(x=>x.Username.ToLower().Equals(username.ToLower()));
+            return user;
         }
     }
 }

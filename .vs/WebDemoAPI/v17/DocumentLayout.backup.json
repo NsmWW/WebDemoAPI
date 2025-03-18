@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315102934_initialv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebDemoAPI.Infastructure\\Migrations\\20250315102934_initialv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\implementrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\implementrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\implementrepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\implementrepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\payload\\mapper\\userdataconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\payload\\mapper\\userdataconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\usersfuntion\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\usersfuntion\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\interfacerepository\\iuserreposytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\interfacerepository\\iuserreposytory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\interfacerepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\interfacerepository\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\validation\\validateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\validation\\validateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|solutionrelative:webdemoapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\implemenservice\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\implemenservice\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\payload\\baserespone\\responeoject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\payload\\baserespone\\responeoject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17731C51-FE2A-46DA-9BA5-8D3B00E0F9E5}|WebDemoAPI.Domain\\WebDemoAPI.Domain.csproj|solutionrelative:webdemoapi.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250318034025_initialv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebDemoAPI.Infastructure\\Migrations\\20250318034025_initialv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\migrations\\20250315102934_initialv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\migrations\\20250315102934_initialv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|solutionrelative:webdemoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\datacontext\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\datacontext\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.infastructure\\datacontext\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C853447-96CC-43A8-9E9C-2E3672844090}|WebDemoAPI.Infastructure\\WebDemoAPI.Infastructure.csproj|solutionrelative:webdemoapi.infastructure\\datacontext\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\interfaceservice\\iauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\interfaceservice\\iauservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\payload\\respone\\datauserrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\payload\\respone\\datauserrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\payload\\resquest\\userresquest\\request_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\payload\\resquest\\userresquest\\request_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi.application\\constanconnection\\contans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DE0745-305B-463E-8617-E5AE7190D963}|WebDemoAPI.Application\\WebDemoAPI.Application.csproj|solutionrelative:webdemoapi.application\\constanconnection\\contans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|f:\\project\\test1\\demo test\\webdemoapi\\webdemoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB1526C-6AE0-4E4E-AC03-EB1F343CE947}|WebDemoAPI\\WebDemoAPI.csproj|solutionrelative:webdemoapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +114,288 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\UsersFuntion\\Permission.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\UsersFuntion\\Permission.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\UsersFuntion\\Permission.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\UsersFuntion\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:55:35.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\ImplementRepository\\BaseRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAawFMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:28:58.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDataConverter.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\Mapper\\UserDataConverter.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\Payload\\Mapper\\UserDataConverter.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\Mapper\\UserDataConverter.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\Payload\\Mapper\\UserDataConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:01:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Validateinput.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\Validation\\Validateinput.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\Validation\\Validateinput.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\Validation\\Validateinput.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\Validation\\Validateinput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:30:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\InterfaceREpository\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:28:40.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserReposytory.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\InterfaceREpository\\IUserReposytory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:28:42.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\ImplementRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\ImplementRepository\\UserRepository.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\ImplementRepository\\UserRepository.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\ImplementRepository\\UserRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:28:45.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:26:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "WebDemoAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:54:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\User.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Domain\\User.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Domain\\User.cs",
+              "RelativeToolTip": "WebDemoAPI.Domain\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawBgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:48:07.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponeOject.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\BaseRespone\\ResponeOject.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\Payload\\BaseRespone\\ResponeOject.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\BaseRespone\\ResponeOject.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\Payload\\BaseRespone\\ResponeOject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:08:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\ImplemenService\\UserServices.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\ImplemenService\\UserServices.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\ImplemenService\\UserServices.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\ImplemenService\\UserServices.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:26:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250318034025_initialv3.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250318034025_initialv3.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\Migrations\\20250318034025_initialv3.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250318034025_initialv3.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\Migrations\\20250318034025_initialv3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:40:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuservice.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\InterfaceService\\IAuservice.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\InterfaceService\\IAuservice.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\InterfaceService\\IAuservice.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\InterfaceService\\IAuservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:11:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20250315102934_initialv2.cs",
               "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315102934_initialv2.cs",
               "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\Migrations\\20250315102934_initialv2.cs",
               "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\Migrations\\20250315102934_initialv2.cs",
               "RelativeToolTip": "WebDemoAPI.Infastructure\\Migrations\\20250315102934_initialv2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T10:29:34.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDBcontext.cs",
-              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
-              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
-              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
-              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\ApplicationDBcontext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI\\Program.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\Program.cs",
+              "RelativeToolTip": "WebDemoAPI\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwCAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T10:26:37.756Z",
+              "WhenOpened": "2025-03-18T03:10:58.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationDBcontext.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\IApplicationDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:16:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDbcontext.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "RelativeToolTip": "WebDemoAPI.Infastructure\\DataContext\\IDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:16:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataUserRespone.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\Respone\\DataUserRespone.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\Payload\\Respone\\DataUserRespone.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\Respone\\DataUserRespone.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\Payload\\Respone\\DataUserRespone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:23:11.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Request_Register.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\Resquest\\UserResquest\\Request_Register.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\Payload\\Resquest\\UserResquest\\Request_Register.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\Payload\\Resquest\\UserResquest\\Request_Register.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\Payload\\Resquest\\UserResquest\\Request_Register.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:07:04.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contans.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "RelativeToolTip": "WebDemoAPI.Application\\ConstanConnection\\Contans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:57:27.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebDemoAPI\\WeatherForecast.cs",
+              "ToolTip": "F:\\Project\\Test1\\Demo test\\WebDemoAPI\\WebDemoAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WebDemoAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:53:52.253Z",
               "EditorCaption": ""
             }
           ]

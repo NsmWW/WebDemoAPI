@@ -19,6 +19,7 @@ namespace WebDemoAPI.Domain
         public string Password { set; get; }
         public string Fullname {  set; get; }
         public DateTime? DateOfBirt { set; get; }
+        public bool IsActive { set; get; } = false;
         public ConstanEnum.EnumStatus EnumStatus { set; get; } = ConstanEnum.EnumStatus.Unactive;
 
         public virtual ICollection<Permission>? Permissions { set; get; } = new List<Permission>();

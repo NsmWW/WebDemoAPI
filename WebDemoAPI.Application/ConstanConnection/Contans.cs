@@ -12,5 +12,9 @@ namespace WebDemoAPI.Application.ConstanConnection
         {
             public const string DEFAULT_CONNECTION = "DefaulConnection";
         }
+        public class defaulValue
+        {
+            public const string DEFAULT_CONTROLER_ROUTER = "api/[controller]/[action]";
+        }
     }
 }

@@ -25,6 +25,7 @@ namespace WebDemoAPI.Infastructure.DataContext
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
+            SeedData(modelBuilder);
             modelBuilder.Entity<User>(e =>
             {
                 e.HasKey(e=>e.Id);
@@ -42,6 +43,14 @@ namespace WebDemoAPI.Infastructure.DataContext
                e.HasKey(e=> e.Id);  
             });
 
+        }
+        private static void SeedData(ModelBuilder builder)
+        {
+            builder.Entity<Role>().HasData(
+                new Role { RoleCode = "Admin", RoleName = "Admin", Id = 1},
+                new Role { RoleCode = "Teacher", RoleName = "Teacher", Id = 2 },
+                new Role { RoleCode = "Student", RoleName = "Student", Id = 3 }
+            );
         }
         public async Task<int> CommitChageAsync()
         {

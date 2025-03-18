@@ -177,3 +177,4 @@ F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI\bin\Debug\net8.0\zh-Hant\Micros
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI\bin\Debug\net8.0\WebDemoAPI.Domain.dll
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI\bin\Debug\net8.0\WebDemoAPI.Domain.pdb
 F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI\obj\Debug\net8.0\WebDemoAPI.sourcelink.json
+F:\Project\Test1\Demo test\WebDemoAPI\WebDemoAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll

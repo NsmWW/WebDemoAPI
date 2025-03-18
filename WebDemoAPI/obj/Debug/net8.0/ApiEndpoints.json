@@ -1,23 +1,18 @@
 [
   {
-    "ContainingType": "WebDemoAPI.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "WebDemoAPI.Controllers.ValuesController",
+    "Method": "Regitster",
+    "RelativePath": "api/Values/Regitster",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebDemoAPI.WeatherForecast, WebDemoAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "request_Register",
+        "Type": "WebDemoAPI.Application.Payload.Resquest.UserResquest.Request_Register",
+        "IsRequired": true
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]
